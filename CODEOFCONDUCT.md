@@ -15,7 +15,7 @@ When reporting, please include any relevant details, links, screenshots, context
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as members of the WeAllJS community pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as members of the extremelyonline community pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -47,17 +47,17 @@ Examples of unacceptable behavior by participants include:
 
 ## Scope
 
-This Code of Conduct applies both within community spaces and in other spaces involving the community. This includes the WeAllJS Slack, its Twitter community, private email communications in the context of the community, and any events where members of the community are participating, as well as adjacent communities and venues affecting the community's members.
+This Code of Conduct applies both within community spaces and in other spaces involving the community. This includes the extremelyonline Slack, when discussing on social media like twitter, private email communications in the context of the community, and any events where members of the community are participating, as well as adjacent communities and venues affecting the community's members.
 
 Depending on the violation, the admins may decide that violations of this code of conduct that have happened outside of the scope of the community may deem an individual unwelcome, and take appropriate action to maintain the comfort and safety of its members.
 
 ## Admin Enforcement Process
 
-Once the admins get involved, they will follow a documented series of steps and do their best to preserve the well-being of WeAllJS members. This section covers actual concrete steps. For further information/details on values and practices that admins will generally apply when enforcing the Code of Conduct, refer to [the full enforcement document](http://wealljs.org/enforcement).
+Once the admins get involved, they will follow a documented series of steps and do their best to preserve the well-being of extremelyonline members. This section covers actual concrete steps. For further information/details on values and practices that admins will generally apply when enforcing the Code of Conduct, refer to [WeAllJs' full enforcement document](http://wealljs.org/enforcement).
 
 ### Contacting Admins
 
-You may get in touch with the WeAllJS admin team through any of the following methods:
+You may get in touch with the extremelyonline admin team through any of the following methods:
 
   * Directly message any admin in private (through either Twitter, Slack, or email, as available) if it is a preferred or more comfortable avenue.
 
@@ -110,7 +110,7 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 
 > Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
 
-> MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC over at wealljs.org/code-of-conduct if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
+> MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC over at https://github.com/varjmes/extremelyonline/blob/master/CODEOFCONDUCT.md if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
 
 > Patt: "/msg @mxadmin1 Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
 
